@@ -1,0 +1,8 @@
+
+.navbar {
+    /* Ensure navbar remains at the top of the page */
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure navbar appears above other content */
+}

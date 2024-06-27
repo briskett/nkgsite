@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    margin: 0;
+    padding: 0;
+}
+.container {
+
+    width: 80%;
+    max-width: 800px;
+    margin:90px auto;
+    background-color: #ffffff; /* White background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Light shadow */
+}
+h2 {
+    color: #333333; /* Dark gray heading */
+}
+p {
+    color: #555555; /* Gray text */
+    line-height: 1.6;
+}
+.contact-info {
+    margin-top: 20px;
+    border-top: 1px solid #dddddd; /* Light gray border */
+    padding-top: 20px;
+}
+.contact-info p {
+    margin: 10px 0;
+}
+.contact-info a {
+    color: #007bff; /* Blue link */
+    text-decoration: none;
+}
+.contact-info a:hover {
+    text-decoration: underline;
+}
